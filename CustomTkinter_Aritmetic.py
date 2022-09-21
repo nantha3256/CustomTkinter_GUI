@@ -3,7 +3,7 @@
 CustomTkinter upgraded version : Auto reload arithmetic equation
 ==============
 
-This in- progress file for answering auto-reload equations of addition, substract, multiply and   for specific time limit.( In-progress)
+This in- progress file for answering auto-reload equations of addition, substract, multiply and divide   for specific time limit.( In-progress)
 
 
 References:
